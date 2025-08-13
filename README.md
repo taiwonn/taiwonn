@@ -1,11 +1,9 @@
 # Salut, moi c'est Lucas Grandvaux 👋
 
-![5 Years of Service - CS:GO](https://img.shields.io/badge/CS%3AGO-5%20Years%20of%20Service-yellow?logo=counter-strike&logoColor=white&style=for-the-badge)
-
 🎓 **Étudiant en Bachelor Coordinateur de Projet Informatiques**  
 _Option Systèmes, Réseaux, Sécurité & Cybersécurité_
 
-Curieux, bidouilleur et passionné par tout ce qui touche à l’informatique (systèmes, sécurité, réseaux…), j’aime apprendre en expérimentant et relever de nouveaux défis. J’avance chaque jour pour devenir un professionnel polyvalent, prêt à trouver des solutions concrètes aux besoins d’aujourd’hui… et de demain !
+Curieux, bidouilleur et passionné par tout ce qui touche à l’informatique (systèmes, sécurité, réseaux…), j’aime apprendre en expérimentant et relever de nouveaux défis. J’adore découvrir et tester plein de nouveaux outils, surtout des logiciels open source et auto-hébergeables (c’est souvent là qu’on tombe sur les meilleures pépites !). J’avance chaque jour pour devenir un professionnel polyvalent, prêt à trouver des solutions concrètes aux besoins d’aujourd’hui… et de demain !
 
 ---
 
