@@ -1,4 +1,4 @@
-# Salut, moi c'est Lucas Grandvaux 👋
+# Salut, moi c'est Lucas 👋
 
 🎓 **Étudiant en Bachelor Coordinateur de Projet Informatiques**  
 _Option Systèmes, Réseaux, Sécurité & Cybersécurité_
