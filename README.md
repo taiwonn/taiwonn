@@ -93,11 +93,10 @@ Indice bonus : Base64.
 
 ---
 
-## 🎮 Fun Zone : Counter-Strike 2 (GIF)
+## 🎮 Fun Zone : Stickman - E.200303 (GIF)
 
-![Counter Strike 2 - Action GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQ1b3J1eG8xYjJnbDJlbGw2ZjhvZ3NvdTBjaDA1ZDc5c2RhZ2IyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OuLwT5v5iUBMQK9Q8n/giphy.gif)
-> *Petit clin d'œil à CS2 pour les gamers !*
-
+![Sitckman - Action GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2c1cXk3bnF6NWhyc2ZpOTdoaWlyMjR0bGx4ZTYzaXRoNDAxZWFuMiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/MvHnr4NSZC0IU/giphy.gif)
+> *Un petit clin d'œil à Stickman !*
 ---
 
 > _« La victoire appartient au plus opiniâtre. »_  
