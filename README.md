@@ -89,6 +89,7 @@ Indice bonus : Base64.
 
 ## 🏆 Hall of Fame – Ceux qui ont percé le secret
 
+1. [@Jim](https://github.com/MonkeyDJim) — Premier à trouver ! 🎉 (14/08/2025)
 - (À compléter !)
 
 ---
