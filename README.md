@@ -105,4 +105,9 @@ Indice bonus : Base64.
 
 ---
 
+## 📊 Statistiques (parce que j'adore ça aussi)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taiwonn&" alt="taiwonn" /></p>
+
+---
+
 **Merci d’être passé, et bonne exploration !**
